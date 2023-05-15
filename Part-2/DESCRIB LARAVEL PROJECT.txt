@@ -1,0 +1,32 @@
+Describe the purpose of each of the following folders in a Laravel project:
+
+
+app = this is very importent file for aravel. we can manage 
+here controller, middlewere, kernel, models,providers.
+
+
+bootstrap = this file is used to start laravel.
+
+
+config = this file manage all laravel configuration.
+
+
+database = we will use this file to create table by migration option.
+
+
+public = this is a root file for open website with index.php file. 
+
+
+resources = we will use this file to view front such as blade template, css. js etc.
+
+
+routes = we will use this file to create routes, URI, Url in web.php & api.php 
+
+
+storage = we use this storage for all of larver file folders in storages. 
+
+
+tests = if we want to test any feature , then we can use it.
+
+
+Vendor = laravel all package are created in vendor file.
